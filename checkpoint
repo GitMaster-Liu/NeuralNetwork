@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnnvector1.ckpt-8"
+all_model_checkpoint_paths: "cnnvector1.ckpt-8"
